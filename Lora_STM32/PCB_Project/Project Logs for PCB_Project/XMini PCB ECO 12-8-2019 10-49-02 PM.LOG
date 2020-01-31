@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RX1 Pin=*1-SWCLK
+Added Pin To Net: NetName=PA3 Pin=BluePill1-26
+Added Pin To Net: NetName=PA3 Pin=P3-1
+Added Pin To Net: NetName=RX1 Pin=P6-7
+Added Room: Name=XMini

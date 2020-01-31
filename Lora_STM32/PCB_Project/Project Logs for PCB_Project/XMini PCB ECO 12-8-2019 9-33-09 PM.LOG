@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Relay 1 Pin=Q1-3
+Removed Pin From Net: NetName=Relay 5 Pin=Q2-3
+Removed Pin From Net: NetName=Relay 2 Pin=Q3-3
+Removed Pin From Net: NetName=Relay 6 Pin=Q4-3
+Removed Pin From Net: NetName=Relay 3 Pin=Q5-3
+Removed Pin From Net: NetName=Relay 7 Pin=Q6-3
+Removed Pin From Net: NetName=Relay 4 Pin=Q7-3
+Removed Pin From Net: NetName=Relay 8 Pin=Q8-3
+Added Pin To Net: NetName=Relay 8 Pin=Q1-3
+Added Pin To Net: NetName=Relay 4 Pin=Q2-3
+Added Pin To Net: NetName=Relay 7 Pin=Q3-3
+Added Pin To Net: NetName=Relay 3 Pin=Q4-3
+Added Pin To Net: NetName=Relay 6 Pin=Q5-3
+Added Pin To Net: NetName=Relay 2 Pin=Q6-3
+Added Pin To Net: NetName=Relay 5 Pin=Q7-3
+Added Pin To Net: NetName=Relay 1 Pin=Q8-3
+Added Room: Name=XMini

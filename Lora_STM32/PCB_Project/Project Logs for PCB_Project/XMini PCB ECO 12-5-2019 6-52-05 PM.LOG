@@ -1,0 +1,3 @@
+Added Component: Designator=BluePill2(stm32 Blue pill)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=XMini Member=Component BluePill2 BluePill

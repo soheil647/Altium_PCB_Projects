@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Change Component Footprint: Designator=J1 Old Footprint=*GCT_DCJ200-10-A-XX-X_REVA New Footprint=*NINIGI_DC-005
+Change Component Comment : Designator=J1 Old Comment=DCJ200-10-A-XX-X_REVA New Comment=DC-005
+Change component parameters: Designator = "J1"; Footprint = "*NINIGI_DC-005"; UniqueID = "\WLPBFGRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DC-005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Ninigi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DC-005/Littelfuse%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=5V Pin=J1-4
+Added Room: Name=XMini

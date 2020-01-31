@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Relay 7 Pin=D8-A
+Removed Pin From Net: NetName=Relay 7 Pin=K8-2
+Added Pin To Net: NetName=Relay 8 Pin=D8-A
+Added Pin To Net: NetName=Relay 8 Pin=K8-2

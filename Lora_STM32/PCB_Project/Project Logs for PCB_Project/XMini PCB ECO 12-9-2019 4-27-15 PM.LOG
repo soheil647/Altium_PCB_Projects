@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=PA0 Pin=*1-PA0
+Removed Pin From Net: NetName=PA8 Pin=*1-PA8
+Removed Pin From Net: NetName=PA15 Pin=*1-PA15
+Removed Pin From Net: NetName=PB3 Pin=*1-PB3
+Removed Pin From Net: NetName=PB4 Pin=*1-PB4
+Removed Pin From Net: NetName=PB5 Pin=*1-PB5
+Removed Pin From Net: NetName=PA3 Pin=BluePill1-8
+Removed Pin From Net: NetName=PA3 Pin=P1-11
+Removed Pin From Net: NetName=PA8 Pin=P4-9
+Removed Pin From Net: NetName=PA0 Pin=P5-1
+Removed Pin From Net: NetName=PB5 Pin=P5-7
+Removed Pin From Net: NetName=PB4 Pin=P6-2
+Removed Pin From Net: NetName=PB3 Pin=P6-3
+Removed Pin From Net: NetName=PA15 Pin=P6-4
+Removed Pin From Net: NetName=PB12 Pin=R1-1
+Removed Pin From Net: NetName=PB12 Pin=R3-1
+Removed Pin From Net: NetName=PB13 Pin=R7-1
+Removed Pin From Net: NetName=PB13 Pin=R9-1
+Removed Pin From Net: NetName=PB14 Pin=R13-1
+Removed Pin From Net: NetName=PB14 Pin=R15-1
+Removed Pin From Net: NetName=PB15 Pin=R19-1
+Removed Pin From Net: NetName=PB15 Pin=R21-1
+Added Pin To Net: NetName=PB15 Pin=R1-1
+Added Pin To Net: NetName=PB15 Pin=R3-1
+Added Pin To Net: NetName=PB14 Pin=R7-1
+Added Pin To Net: NetName=PB14 Pin=R9-1
+Added Pin To Net: NetName=PB13 Pin=R13-1
+Added Pin To Net: NetName=PB13 Pin=R15-1
+Added Pin To Net: NetName=PB12 Pin=R19-1
+Added Pin To Net: NetName=PB12 Pin=R21-1
+Change Net Name : Old Net Name=PA3 New Net Name=LPA3
+Change Net Name : Old Net Name=PA9 New Net Name=LPA9
+Change Net Name : Old Net Name=PA10 New Net Name=LPA10
+Change Net Name : Old Net Name=PC13 New Net Name=LPC13
+Added Pin To Net: NetName=LPA0 Pin=*1-PA0
+Added Pin To Net: NetName=LPA0 Pin=P5-1
+Added Net: Name=LPA0
+Added Pin To Net: NetName=LPA8 Pin=*1-PA8
+Added Pin To Net: NetName=LPA8 Pin=P4-9
+Added Net: Name=LPA8
+Added Pin To Net: NetName=LPA15 Pin=*1-PA15
+Added Pin To Net: NetName=LPA15 Pin=P6-4
+Added Net: Name=LPA15
+Added Pin To Net: NetName=LPB3 Pin=*1-PB3
+Added Pin To Net: NetName=LPB3 Pin=P6-3
+Added Net: Name=LPB3
+Added Pin To Net: NetName=LPB4 Pin=*1-PB4
+Added Pin To Net: NetName=LPB4 Pin=P6-2
+Added Net: Name=LPB4
+Added Pin To Net: NetName=LPB5 Pin=*1-PB5
+Added Pin To Net: NetName=LPB5 Pin=P5-7
+Added Net: Name=LPB5
+Added Pin To Net: NetName=PA3 Pin=BluePill1-8
+Added Pin To Net: NetName=PA3 Pin=P1-11
+Added Net: Name=PA3
+Added Room: Name=XMini
